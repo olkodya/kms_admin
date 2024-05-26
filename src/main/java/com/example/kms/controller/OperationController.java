@@ -10,7 +10,7 @@ import org.springframework.web.bind.annotation.*;
 
 import java.util.List;
 
-@CrossOrigin(origins = {"http://localhost:8081", "https://kms2-production.up.railway.app"})
+@CrossOrigin(origins = {"http://localhost:8081", "https://kmsadmin-production.up.railway.app"})
 @RestController
 @RequiredArgsConstructor
 @RequestMapping("/api")
