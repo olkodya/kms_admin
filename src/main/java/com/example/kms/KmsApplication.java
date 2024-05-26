@@ -15,7 +15,7 @@ import io.swagger.v3.oas.models.info.License;
 
                 @Server(
                         description = "Prod ENV",
-                        url = "https://kms2-production.up.railway.app"
+                        url = "https://kmsadmin-production.up.railway.app"
                 ),
                 @Server(
                         description = "Local ENV",
